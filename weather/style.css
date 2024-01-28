@@ -1,0 +1,35 @@
+body {
+    background-size: cover;
+    background-repeat: no-repeat;
+    animation: weatherBackground 20s linear infinite;
+}
+body {
+    color: #010101; /* Dark color for the text */
+    font-weight: bold; /* Make the text bold */
+   
+}
+h2 {
+    color: white;
+}
+
+@keyframes weatherBackground {
+    0% {
+        background-image: url('wf1.jpg');
+    }
+    25% {
+        background-image: url('wf2.webp');
+    }
+    50% {
+        background-image: url('wf3.jpg');
+    }
+    75% {
+        background-image: url('wf4.jpg');
+    }
+    100% {
+        background-image: url('wf5.jpeg');
+    }
+}
+
+h1,h2{
+    front-weight: bold;
+}
