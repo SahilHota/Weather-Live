@@ -1,0 +1,1 @@
+This is a responsive and user-friendly weather app that provides real-time weather information. Built using HTML, CSS, and JavaScript, this project utilizes a weather API to fetch accurate and up-to-date weather dataContributions are welcome! Feel free to open issues, suggest improvements, or submit pull requests.
